@@ -1,7 +1,7 @@
 # Benjamin Turner
 
-Systems tester and QA engineer focused on modernization, reliability, and verification.
+Software and systems tester focused on reliability, verification, and correctness in high-change software environments.
 
-With a background in mainframe testing and current work in mainframe-to-Java migration, I’m especially interested in the future of QA in AI-accelerated software delivery: as more is generated automatically, more will need to be verified thoughtfully and rigorously.
+My background is in legacy mainframe testing, and my current work includes both legacy-system testing and mainframe-to-Java modernization. I’m especially interested in quality in AI-accelerated software delivery: as code, tests, and analysis are generated more quickly, the need for rigorous human verification only grows.
 
-Building practical modern QA projects assisted by Claude Code and Codex. Pursuing the ISTQB certification path.
+My GitHub projects center on practical verification and testing in Java, Spring Batch, PostgreSQL, and Python, with an emphasis on automation, reconciliation, contract testing, and evidence-driven review. Claude Code and Codex are part of my workflow.
